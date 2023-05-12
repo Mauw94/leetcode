@@ -7,6 +7,7 @@ mod roman_to_integer;
 mod search_insert_position;
 mod two_sum;
 mod valid_parentheses;
+mod plus_one;
 
 fn main() {
     // valid_parentheses::run();
@@ -17,5 +18,6 @@ fn main() {
     // remove_element::run();
     // first_occurence::run();
     // search_insert_position::run();
-    len_last_word::run();
+    // len_last_word::run();
+    plus_one::run();
 }
