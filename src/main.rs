@@ -1,11 +1,12 @@
+mod first_occurence;
 mod lcp;
+mod len_last_word;
 mod palindrome_number;
+mod remove_element;
 mod roman_to_integer;
+mod search_insert_position;
 mod two_sum;
 mod valid_parentheses;
-mod remove_element;
-mod first_occurence;
-mod search_insert_position;
 
 fn main() {
     // valid_parentheses::run();
@@ -15,5 +16,6 @@ fn main() {
     // palindrome_number::run();
     // remove_element::run();
     // first_occurence::run();
-    search_insert_position::run();
+    // search_insert_position::run();
+    len_last_word::run();
 }
