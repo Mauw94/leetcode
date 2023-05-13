@@ -12,6 +12,7 @@ mod roman_to_integer;
 mod search_insert_position;
 mod two_sum;
 mod valid_parentheses;
+mod pascals_triangle;
 
 fn main() {
     // valid_parentheses::run();
@@ -27,5 +28,6 @@ fn main() {
     // add_binary::run();
     // climb_stairs::run();
     // rm_duplicates_sorted_list::run();
-    merge_sorted_array::run();
+    // merge_sorted_array::run();
+    pascals_triangle::run();
 }
