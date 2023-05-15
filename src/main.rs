@@ -13,6 +13,8 @@ mod search_insert_position;
 mod two_sum;
 mod valid_parentheses;
 mod pascals_triangle;
+mod binary_tree_max_depth;
+mod binary_tree_min_depth;
 
 fn main() {
     // valid_parentheses::run();
@@ -29,5 +31,7 @@ fn main() {
     // climb_stairs::run();
     // rm_duplicates_sorted_list::run();
     // merge_sorted_array::run();
-    pascals_triangle::run();
+    // pascals_triangle::run();
+    // binary_tree_max_depth::run();
+    //  binary_tree_min_depth::run();
 }
