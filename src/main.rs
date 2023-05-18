@@ -16,6 +16,7 @@ mod pascals_triangle;
 mod binary_tree_max_depth;
 mod binary_tree_min_depth;
 mod path_sum;
+mod pascals_triangle_2;
 
 fn main() {
     // valid_parentheses::run();
@@ -36,4 +37,5 @@ fn main() {
     // binary_tree_max_depth::run();
     //  binary_tree_min_depth::run();
     // path_sum::run();
+    pascals_triangle_2::run();
 }
